@@ -53,14 +53,15 @@ Coins are distributed based on the first in first out (FIFO) principle.
 As a contribution is made to the contract it not be spent until all coins that were in the contract before it are spent.
 A public ledger of funds contributed will be maintained for transparency.
 Example:  
-•	The contract has 0 ether. 
-•	Alice contributes 10 ether. 
-•	Bob contributes 20 ether.
-•	Chloe contributes 10 ether.
-•	The fund now has 40 ether.
-•	Paul the proposer requests, and is granted, 15 ether.
-•	The fund now has 25 ether remaining. (0 from Alice, 15 from Bob, 10 from Chloe)
-•	If a vote to dissolve were passed; Alice would be refunded 0 ether, Bob would be refunded 15 ether, and Chloe refunded 10.   
+-	The contract has 0 ether. 
+-	Alice contributes 10 ether. 
+-	Bob contributes 20 ether.
+-	Chloe contributes 10 ether.
+-	The fund now has 40 ether.
+-	Paul the proposer requests, and is granted, 15 ether.
+-	The fund now has 25 ether remaining. (0 from Alice, 15 from Bob, 10 from Chloe)
+-	If a vote to dissolve were passed; Alice would be refunded 0 ether, Bob would be refunded 15 ether, and Chloe refunded 10.  
+
 #Vote to Dissolve#
 The committee can be dissolved at any point by issuing a vote in the forum. 
 If the vote to dissolve is passed; all funds remaining in the contract will be automatically refunded to the original contributors based on the FIFO method detailed above.  
