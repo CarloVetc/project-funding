@@ -4,7 +4,7 @@ Ethereum<sup>Classic</sup> Voting Proposal System.
 
 ECVPs propose and describe projects requesting funding which has been freely donated to any Ethereum<sup>Classic</sup> donation account.
 
-It should firstly be stated that we believe in decentralized, censorship-resistant, permissionless blockchains. We believe in the original vision of Ethereum as a world computer you can't shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks are only possible in order to correct actual platform bugs, not to bail out failed contracts and special interests. We believe in censorship-resistant platform that can be actually trusted - by anyone.
+It should firstly be stated that we believe in decentralized, censorship-resistant, permissionless blockchains. We believe in the original vision of Ethereum as a world computer you can't shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks are only possible in order to correct actual platform bugs or perform system upgrades, not to bail out failed contracts and special interests. We believe in censorship-resistant platform that can be actually trusted - by anyone.
 
 see:  
 
