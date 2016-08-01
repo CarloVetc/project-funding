@@ -6,12 +6,12 @@ Being that interested parties would like to contribute to the development of the
 
 #Definitions# 
 
-Contributor – any party freely sending funds to the smart contract to be distributed as the committee decides 
-Evaluation – Measures of result and effectiveness
-Party – a person, organization, smart contract, or any similarly situated representative capable of meeting the cryptographic verifications put forth in this document; without any limitation implied due to age, gender, race, nationality or religion  
-Proposer – any party presenting a proposal
-President – the owner of the contract
-Voting member – any party who has been elected to the committee by the committee 
+- Contributor – any party freely sending funds to the smart contract to be distributed as the committee decides 
+- Evaluation – Measures of result and effectiveness
+- Party – a person, organization, smart contract, or any similarly situated representative capable of meeting the cryptographic verifications put forth in this document; without any limitation implied due to age, gender, race, nationality or religion  
+- Proposer – any party presenting a proposal
+- President – the owner of the contract
+- Voting member – any party who has been elected to the committee by the committee 
 
 #Objectives#
 1) Create a smart contract on the EthereumClassic chain which allows for members to:
