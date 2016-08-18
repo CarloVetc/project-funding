@@ -1,4 +1,4 @@
-# EthereumClassic Core Developer PGP List
+# EthereumClassic Core PGP List
 
 Below is a list of core developer PGP's for public verification of official releases,
 code commits/PRs, press releases, etc. We are releasing this list in an effort to
