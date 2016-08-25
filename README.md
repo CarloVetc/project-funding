@@ -26,7 +26,7 @@ Any party wishing to fund the development committee should: read proposal 1, con
 # Current Proposals
 | Number        |Title         | Author | Type  | Layer        | Status / Discussion | 
 | ------------- | ------------ | ------ | ----- | -------------| ------------------- |
-| [1](EIPS/eip-1.mediawiki)    | PROPOSAL TO ENACT  | Cody Burns | Meta | | Active |
+| [1](https://github.com/ethereumproject/project-funding/tree/master/Active)    | PROPOSAL TO ENACT  | Cody Burns | Meta | | Active |
 |             |                |            |  |  |  |
 |             |  |  |  |  |  |
 |             |  |  |  | |  |
